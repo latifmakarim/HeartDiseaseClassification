@@ -1,2 +1,2 @@
 # HeartDiseaseClassification
-Using classification method to predict heart disease.
+Heart disease prediction using Logistic Regression, Dummy Classifier, K-Nearest Neighbors, Support Vector Machine, and Decision Tree Classifier.
